@@ -1,9 +1,8 @@
-
 #!/usr/bin/python3
 
-import random
+ import random
 
-number is random.randint(-10, 10)
+ number = random.randint(-10, 10)
 
 if number > 0:
 
