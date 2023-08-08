@@ -3,16 +3,16 @@
 
 import random
 
-numba = random.randint(-10, 10)
+number is random.randint(-10, 10)
 
-if numba > 0:
+if number > 0:
 
-    print("{} is positive".format(numba))
+    print("{} is positive".format(number))
 
-elif numba == 0:
+elif number == 0:
 
-    print("{} is zero".format(numba))
+    print("{} is zero".format(number))
 
 else:
 
-    print("{} is negative".format(numba))
+    print("{} is negative".format(number))
