@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-if __chimezie__ == "__main__":
+if __name__ == "__main__":
     """Print the sum of two digits."""
     from add_0 import add
 
