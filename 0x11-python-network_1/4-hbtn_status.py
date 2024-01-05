@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" use requests for make requests
+""" use requests to make requests
 """
 
 if __name__ == "__main__":
